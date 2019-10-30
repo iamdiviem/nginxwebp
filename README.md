@@ -4,6 +4,7 @@ When user sending request for this file, Nginx Web Server will be looking for ex
 This's will be work for images with following extension: _.jpg, .jpeg, .png_ 
 
 #####1. Install webp library on your Linux
+
 CentOS: 
     `yum install libwebp-tools`
     
